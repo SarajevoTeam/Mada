@@ -1,0 +1,15 @@
+h1 { 
+color:red;
+}
+/* pentru a centrra imagiea */
+.firstpic {
+	display: block;
+	width: 25%;
+	height:50%
+}
+.2pic {
+	display: block;
+	Width: 40%;
+	height: 20%
+}
+	
